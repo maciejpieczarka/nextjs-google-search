@@ -2,7 +2,7 @@ Google Search engine clone built with [Next.js](https://nextjs.org/)
 
 ## Preview
 
-[**Live Demo**]()
+[**Live Demo**](https://nextjs-google-search.vercel.app/)
 
 ## Project Setup
 
